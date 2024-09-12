@@ -46,11 +46,11 @@ Crie um arquivo .env e preencha as variáveis de ambiente no arquivo com as suas
 
 ## Endpoints da API
 
-GET /tasks: Retorna uma lista de todas as tarefas.
-POST /tasks: Cria uma nova tarefa.
-GET /tasks/:id: Retorna uma tarefa específica pelo ID.
-PUT /tasks/:id: Atualiza uma tarefa específica pelo ID.
-DELETE /tasks/:id: Exclui uma tarefa específica pelo ID.
+* GET /tasks: Retorna uma lista de todas as tarefas.
+* POST /tasks: Cria uma nova tarefa.
+* GET /tasks/:id: Retorna uma tarefa específica pelo ID.
+* PUT /tasks/:id: Atualiza uma tarefa específica pelo ID.
+* DELETE /tasks/:id: Exclui uma tarefa específica pelo ID.
 
 ## Contribuições
 
